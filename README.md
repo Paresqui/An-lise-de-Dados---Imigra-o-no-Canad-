@@ -22,10 +22,10 @@ Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Ma
 
 ## Exemplos de Visualização dos Dados
 
-<p align="left"><img src="./image_01.jpg" ></p>
+<p align="left"><img src="./image_01.png" ></p>
 
-<p align="left"><img src="./image_02.jpg" ></p>
+<p align="left"><img src="./image_02.png" ></p>
 
-<p align="left"><img src="./image_03.jpg" ></p>
+<p align="left"><img src="./image_03.png" ></p>
 
-<p align="left"><img src="./image_04.jpg" ></p>
+<p align="left"><img src="./image_04.png" ></p>
