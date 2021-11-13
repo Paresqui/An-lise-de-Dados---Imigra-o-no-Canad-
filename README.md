@@ -8,6 +8,8 @@
 
 Neste projeto, utilizei a linguagem de programação Python e suas principais bibliotecas para a realização da análise exploratória e visualização dos dados no dataset da imigração do Canadá. Neste conjunto de dados, tentaremos visualizar diferentes aspectos dos imigrantes visitando o Canadá a partir de vários países do mundo todo, procurei fazer visualizações mais eficazes e ad-hoc para responder  algumas perguntas intrigantes que podemos explorar nos dados. Nesse dataset em específico, o conjunto de dados fornecido abrange informações de um período que inicia no ano de 1980  e se extende até o ano de 2013.
 
+**OBS:** Recomendo abrir o arquivo .ipynb no Jupyter Notebook ou no Google Colab para uma melhor visualização do projeto.
+
 ## Bibliotecas utilizadas
 
 Projeto desenvolvido em Python e suas principais bibliotecas, Pandas, Plotly, Matplotlib, Numpy e Seaborn 
